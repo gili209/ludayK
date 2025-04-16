@@ -1,0 +1,33 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    direction: rtl;
+    background-color: #fdf6f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #fff0e6;
+    padding: 20px;
+    text-align: center;
+}
+nav {
+    background-color: #f2dede;
+    padding: 10px;
+    text-align: center;
+}
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #333;
+}
+main, body > h1, p {
+    padding: 20px;
+    text-align: center;
+}
+img {
+    width: 300px;
+    margin: 10px;
+    border-radius: 10px;
+}
